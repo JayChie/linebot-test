@@ -1,0 +1,11 @@
+
+CHANNEL_ACCESS_TOKEN = 'DwRRkPtCC+q94mVKlnZYo5bdLIq4pxPYKNFVE2m5ZBg0fxb3wv5Oc85iyIg2go/vp0M4EZgZSOD+962VU0OA5zOQwhDfKrmnXFfqmKc4yuanK82oP/IGKj+L1jn/t2pJ0zcY6YLbBev0wVSoXBVabQdB04t89/1O/w1cDnyilFU='
+
+
+CHANNEL_SECRET = '6fead0b46b3203876c2d25ab9d1c8308'
+
+
+HEROKU_APP_URL = 'https://linebot-testjay.herokuapp.com/'
+
+
+USERID = 'U2f5ae11b03dbd2054488580d513f7652'
